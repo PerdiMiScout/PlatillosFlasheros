@@ -1,0 +1,6 @@
+[1009/165040.025:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[1009/165040.030:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1009/165040.031:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/021502.744:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/021502.748:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[1010/021502.749:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
